@@ -1,6 +1,6 @@
 # Hi, I'm Eslam 👋🏾 👩🏾‍💻
 
-<img src="template.png" alt="template.png" width="100%" height="200px">
+<img src="template.png" alt="template.png" width="100%" height="350px">
 
 <!--
 **EslamSamy5/EslamSamy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
