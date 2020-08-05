@@ -3,8 +3,7 @@
 <img src="template.png" alt="template.png" width="100%" height="350px">
 
 <!--
-**EslamSamy5/EslamSamy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm a Front-end , wordpress developer & also Flutter developer i love to spend hours codding most of my work on Github repositories for the front end and the wordpress on live server and also i working with C++ and i enjoy it
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
