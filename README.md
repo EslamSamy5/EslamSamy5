@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/35490681/89426102-13e3e980-d73a-11ea-919f-ddbc01d4800c.png" alt="template.png" width="100%" height="350px">
 
-## I'm a Front-end , wordpress developer & also Flutter developer i love to spend hours codding most of my work on Github repositories for the front end and the wordpress on live server and also i working with C++ and i enjoy it
+### I'm a Front-end , wordpress developer & also Flutter developer i love to spend hours codding most of my work on Github repositories for the front end and the wordpress on live server and also i working with C++ and i enjoy it
 
 ## Find me around the web 🌎:
 
